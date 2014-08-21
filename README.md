@@ -12,14 +12,14 @@ and slick Noir design.
 
 Responsive, fully accessible, touch swipe support, all browsers, all devices,  search engine friendly, clean and valid markup. 
 
-## Live Demos
+## More Live Demos
 *    [Elemental Demo - Slices effect](http://wowslider.com/jquery-slider-css-elemental-slices-demo.html )
 *    [Responsive Slider - Shady Stack](http://wowslider.com/wordpress-gallery-css-shady-stack-v-demo.html )
-*    [Numeric Demo - Basic effect](http://wowslider.com/html5-image-gallery-numeric-basic-demo.html )
-*    [More amazing demos made with WOW Slider..](http://wowslider.com/jquery-image-rotator-terse-blur-demo.html) 
+*    [Numeric Demo - Basic HTML5 effect](http://wowslider.com/html5-image-gallery-numeric-basic-demo.html )
+*    [More amazing demos..](http://wowslider.com/demo.html) 
 
 
 
 ## Quick start
 
-* [Download the latest version for Windows or Mac](http://wowslider.com/).
+* Download the latest version for Windows or Mac [here..](http://wowslider.com/).
